@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @tgalog
 - 👀 I’m interested in programing.
 - 🌱 I’m currently learning python.
+- Today in year 2023, I'll continue to learn the world of programming
 
 - 📫 How to reach me? contact at atantonio1@gmail.com.
 
